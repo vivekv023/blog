@@ -15,3 +15,11 @@ Enhance the visual appeal and user experience by integrating Bootstrap, a popula
 Delve into the intricacies of user authorization, restricting access to certain functionalities based on user roles. Implement Laravel's built-in authorization mechanism to ensure that users can only access actions and resources relevant to their roles.
 
 Embrace the power of Laravel 10, MySQL, and Bootstrap to construct a blog application that empowers users to express themselves, connect with others, and share their unique perspectives with the world.
+
+Make sure you have already installed composer on your local machine.
+Install Xampp server PHP 8.2
+Install Laravel 10
+composer create-project laravel/laravel blog
+
+Install packages
+composer require laravel/passport
